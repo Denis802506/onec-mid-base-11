@@ -10,7 +10,7 @@
   <name>МДЛ_Должности</name>
   <synonym>
     <key>ru</key>
-    <value>Должности</value>
+    <value>МДЛ_Должности</value>
   </synonym>
   <useStandardCommands>true</useStandardCommands>
   <inputByString>Catalog.МДЛ_Должности.StandardAttribute.Code</inputByString>
